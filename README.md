@@ -1,10 +1,2 @@
-# project_template
-
-This is the template which will be used for further app development
-
-The arrangment of architecture was taken from
-
-https://habr.com/ru/post/522640/
-
-And BLoC architecture
-
+# Money Management app
+This is the asset management application which allows user to track expenses, track the price of added stocks and their value if user provided its number, and in future it is planned to add parser which will automatically categorize and store expenses in local database
